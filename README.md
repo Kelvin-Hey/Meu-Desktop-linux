@@ -1,7 +1,8 @@
-# my-i3wm
+## Setup
 
-![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem1.png)
-![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem2.png)
-![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem3.png)
-![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem4.png)
-![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem5.png)
+distro|LXDE | plugins | configs
+:--:|:-------:|:------:|:-----:
+wm|[i3](https://github.com/i3/i3) | - | [config](https://github.com/Kelvin-Hey/dotfiles/blob/main/i3/config)
+bar|[polybar](https://github.com/polybar/polybar) | [scripts](scripts) | [config](polybar/config.bspwm) , [modules](polybar/modules) , [taskbar](polybar/taskbar)
+shell|[zsh](https://www.zsh.org/)| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [zsh-completions](https://github.com/zsh-users/zsh-completions), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | [.zshrc](.zshrc)
+
