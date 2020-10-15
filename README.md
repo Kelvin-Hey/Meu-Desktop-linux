@@ -1,5 +1,11 @@
 ## Setup
 
+<hr>
+
+Minhas configs do meu Linux
+
+<hr>
+
 distro|LXDE | plugins | configs
 :--:|:-------:|:------:|:-----:
 wm|[i3](https://github.com/i3/i3) | - | [config](https://github.com/Kelvin-Hey/dotfiles/blob/main/i3/config)
