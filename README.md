@@ -14,7 +14,7 @@ bar|[i3blocks](https://github.com/vivien/i3blocks) | [brightness](https://github
 shell|[zsh](https://www.zsh.org/)| [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions), [zsh-completions](https://github.com/zsh-users/zsh-completions), [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) | [.zshrc](https://github.com/Kelvin-Hey/dotfiles/blob/main/ZSH/zshrc)
 widgets|[conky](https://github.com/brndnmtthws/conky) | - | [config](https://github.com/Kelvin-Hey/dotfiles/blob/main/i3/config)
 navegador|[vivaldi](https://vivaldi.com/pt-br/download/) | [nightTab](https://github.com/zombieFox/nightTab) | - | -
-compositor|[Picom](https://github.com/yshui/picom) | - | [config](https://github.com/Kelvin-Hey/Minhas-configs/blob/main/picom/picom.conf) 
+compositor|[Picom](https://github.com/yshui/picom) | - | [picom.config](https://github.com/Kelvin-Hey/Minhas-configs/blob/main/picom/picom.conf) 
 
 
 ![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem1.png)
