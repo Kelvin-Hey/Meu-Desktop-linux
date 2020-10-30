@@ -6,7 +6,7 @@ Minhas configs do meu Linux
 
 <hr>
 
-|| plugins | configs
+a|s| plugins | configs
 :--:|:-------:|:------:|:-----:
 distro| LXDE | - | -
 wm|[i3](https://github.com/i3/i3) | - | [config](https://github.com/Kelvin-Hey/dotfiles/blob/main/i3/config)
