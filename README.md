@@ -17,6 +17,7 @@ compositor|[Picom](https://github.com/yshui/picom) | - | [picom.config](https://
 navegador|[vivaldi](https://vivaldi.com/pt-br/download/) | [nightTab](https://github.com/zombieFox/nightTab) | - | -
 tema GTK|[Equilux Black](https://github.com/Kelvin-Hey/Equilux-Black)| - | -
 cursor|[WinSur](https://store.kde.org/p/1423341)| - | -
+ícones|[Blackout icons](https://www.gnome-look.org/p/1341332/)| - | - 
 
 
 ![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem1.png)
