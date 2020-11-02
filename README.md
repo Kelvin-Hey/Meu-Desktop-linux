@@ -15,6 +15,7 @@ shell|[zsh](https://www.zsh.org/)| [zsh-autosuggestions](https://github.com/zsh-
 widgets|[conky](https://github.com/brndnmtthws/conky) | [Revolutinary Clocks](https://www.gnome-look.org/p/1006556) | -
 navegador|[vivaldi](https://vivaldi.com/pt-br/download/) | [nightTab](https://github.com/zombieFox/nightTab) | - | -
 compositor|[Picom](https://github.com/yshui/picom) | - | [picom.config](https://github.com/Kelvin-Hey/Minhas-configs/blob/main/picom/picom.conf) 
+cursor|[WinSur](https://store.kde.org/p/1423341)| - | -
 
 
 ![alt text](https://github.com/Kelvin-Hey/my-i3wm/blob/main/img/imagem1.png)
